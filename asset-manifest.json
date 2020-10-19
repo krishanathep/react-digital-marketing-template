@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-digital-marketing-template/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-digital-marketing-template/static/js/main.7e51c074.chunk.js",
+    "main.js.map": "/react-digital-marketing-template/static/js/main.7e51c074.chunk.js.map",
+    "runtime-main.js": "/react-digital-marketing-template/static/js/runtime-main.8cfa466b.js",
+    "runtime-main.js.map": "/react-digital-marketing-template/static/js/runtime-main.8cfa466b.js.map",
+    "static/js/2.b20debce.chunk.js": "/react-digital-marketing-template/static/js/2.b20debce.chunk.js",
+    "static/js/2.b20debce.chunk.js.map": "/react-digital-marketing-template/static/js/2.b20debce.chunk.js.map",
+    "index.html": "/react-digital-marketing-template/index.html",
+    "precache-manifest.53646b92cbcb25873eba4f65698118fb.js": "/react-digital-marketing-template/precache-manifest.53646b92cbcb25873eba4f65698118fb.js",
+    "service-worker.js": "/react-digital-marketing-template/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-digital-marketing-template/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b20debce.chunk.js.LICENSE.txt": "/react-digital-marketing-template/static/js/2.b20debce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cfa466b.js",
+    "static/js/2.b20debce.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.7e51c074.chunk.js"
+  ]
+}
